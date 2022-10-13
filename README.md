@@ -1,2 +1,3 @@
 # webpack4React
-Created with CodeSandbox
+
+custom build for webpack, babel and linter for work with react
